@@ -6,6 +6,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like wolves and anime?!!!
 
+Forever Greatful to my mentor https://github.com/B45i
+
 <!--
 **varshanookarapu/varshanookarapu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
