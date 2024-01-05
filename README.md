@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning JavaScript
+
+- 🔭 I’m currently working on Data Analysis 
+- 🌱 I’m currently learning R Programming , Tableau, SQL
+- 🔭 Worked on React and Javascript
 - 📫 How to reach me: Reach out to me if it's a Job Opportunity 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like wolves and anime?!!!
