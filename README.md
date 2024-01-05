@@ -8,6 +8,8 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like wolves and anime?!!!
 
+ **Goals**: Build a Decent Portfolio for Data Analyst and BI Job Roles
+
 Forever Greatful to my mentor https://github.com/B45i
 
 <!--
