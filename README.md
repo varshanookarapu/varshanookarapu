@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: Reach out to me if it's a Job Opportunity else DON'T
+- 📫 How to reach me: Reach out to me if it's a Job Opportunity 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like wolves and anime?!!!
 
@@ -13,8 +13,9 @@ Forever Greatful to my mentor https://github.com/B45i
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working on Data Analysis 
+- 🌱 I’m currently learning R Programming , Tableau, SQL
+- 🔭 Worked on React and Javascript
 - 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
