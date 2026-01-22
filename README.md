@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently working on Data Analysis 
-- 🌱 I’m currently learning R Programming , Tableau, SQL
+- 🌱 I’m currently learning Power BI ,SQL, DAX
 - 🔭 Worked on React and Javascript
-- 📫 How to reach me: Reach out to me if it's a Job Opportunity 
+- 📫 Reach out to me if it's a Job Opportunity 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like wolves and anime?!!!
 
