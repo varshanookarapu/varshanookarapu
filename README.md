@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on Data Analysis 
 - 🌱 I’m currently learning Power BI ,SQL, DAX
 - 🔭 Worked on React and Javascript
-- 📫 Reach out to me if it's a Job Opportunity 
+- 📫 Please Reach out to me if it's a Job Opportunity 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like wolves and anime?!!!
+
 
  **Goals**: Build a Decent Portfolio for Data Analyst and BI Job Roles
 
