@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Data Analysis 
 - 🌱 I’m currently learning Power BI ,SQL, DAX
-- 🔭 Worked on React and Javascript
+- 🔭 Worked on Angular, React and Javascript
 - 📫 Please Reach out to me if it's a Job Opportunity 
 - 😄 Pronouns: She/Her
 
